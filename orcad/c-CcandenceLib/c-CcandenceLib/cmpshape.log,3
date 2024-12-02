@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : SMA_KE.dra                                    )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sat Mar 09 22:06:28 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHIS-473): 4 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(PACKAGE GEOMETRY)
+Find smallest gap failed. Be cautious, this may not be an error
+A total of 0 shapes were created.

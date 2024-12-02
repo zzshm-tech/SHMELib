@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PCM1_SEG_PCD_28.dra                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Sep 17 10:18:09 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1.28/c-CcandenceLib
+    Name      = pcm1_seg_pcd_28.psm
+    User      = 86158
+    Machine   = LAPTOP-5LJ40LCF
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

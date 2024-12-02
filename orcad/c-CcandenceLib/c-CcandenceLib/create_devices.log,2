@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : test.brd                                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 13 11:36:10 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/1.28/c-CcandenceLib/sod-123_l2_7-w1_6-ls3_7-rd.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/pwrm-th_b0503s-1wr2.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/pto-smd-8p_l11_0-w9_0-p2_54-2.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/pto-smd-8p_l11_0-w9_0-p2_54-1.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/pc-smd_10p-p1_00_boomele-10p1.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/smb_l4_6-w3_6-ls5_3-rd.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/cap-th_l10_0-w4_0-p7_50-d1_0.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/cap-smd_bd8_0-l8_3-w8_3-rd.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/led-th_bd5_8-p2_54-fd.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/fpc-smd_8p-p1_00_lw10252-08.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/hdr-th_8p-p2_54-v-r2-c4-s2_54.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/c0805.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/es-th_l14_0-w4_9-p7_50-d0_8-1.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/fuse-th_l22_6-w9_0.txt': written successfully.
+Device file 'D:/1.28/c-CcandenceLib/cap-th_bd6_3-p2_50-d1_0-fd.txt': written successfully.
+
+  Created device files: 15
+

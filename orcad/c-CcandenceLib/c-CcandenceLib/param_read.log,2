@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : 1206d.dra                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Feb 08 17:35:44 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : pcb_pack_param.prm
+	Layout Name   : D:/1.28/c-CcandenceLib/1206d.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

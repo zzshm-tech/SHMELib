@@ -1,0 +1,320 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Mar 24 19:39:32 2024
+\t (00:00:01)         Host=LAPTOP-5LJ40LCF User=86158 Pid=14548 CPUs=8
+\t (00:00:01) CmdLine= d:\program\tools\bin\allegro.exe D:\1.28\c-CcandenceLib\1206d.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/1.28/c-CcandenceLib/1206d.dra
+\i (00:00:01) trapsize 5500
+\i (00:00:01) trapsize 5669
+\i (00:00:01) trapsize 5669
+\i (00:00:01) trapsize 5684
+\i (00:00:03) open 
+\i (00:00:20) fillin "m_4_7.dra"
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 3108
+\i (00:00:20) trapsize 3158
+\i (00:00:20) trapsize 3158
+\d (00:00:20) Design opened: D:/1.28/c-CcandenceLib/m_4_7.dra
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out -174.562 91.022
+\i (00:00:21) trapsize 6216
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in -141.982 -42.524
+\i (00:00:22) trapsize 3108
+\i (00:00:25) show element 
+\i (00:00:26) pick grid 22.745 104.797
+\t (00:00:26) last pick:  25.000 100.000
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -145.712 37.663
+\i (00:00:35) trapsize 6216
+\i (00:00:37) setwindow text
+\i (00:00:37) close 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in -181.765 -104.685
+\i (00:05:00) trapsize 3108
+\i (00:05:00) zoom out 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out -212.224 4.719
+\i (00:05:00) trapsize 6216
+\i (00:05:02) open 
+\e (00:05:02) Do you want to save the changes you made to m_4_7.dra?
+\i (00:05:04) fillin yes 
+\t (00:05:05) Symbol 'm_4_7.psm' created.
+\i (00:05:23) fillin "M-4-2.dra"
+\t (00:05:23) Opening existing design...
+\i (00:05:23) trapsize 3928
+\i (00:05:23) trapsize 3991
+\i (00:05:23) trapsize 3991
+\d (00:05:23) Design opened: D:/1.28/c-CcandenceLib/M-4-2.dra
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 36.721 38.865
+\i (00:05:24) trapsize 1995
+\i (00:05:26) zoom out 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom out 10.780 2.548
+\i (00:05:26) trapsize 3991
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 10.779 2.548
+\i (00:05:27) trapsize 7982
+\i (00:12:42) open 
+\i (00:13:02) fillin "menu_cancel"
+\i (00:13:03) zoom in 1 
+\i (00:13:03) setwindow pcb
+\i (00:13:03) zoom in 57.073 13.722
+\i (00:13:03) trapsize 3991
+\i (00:13:06) show element 
+\i (00:13:07) pick grid 19.558 -29.380
+\t (00:13:07) last pick:  20.000 -29.000
+\i (00:13:15) setwindow text
+\i (00:13:15) close 
+\i (00:15:35) setwindow pcb
+\i (00:15:35) pick grid 329.253 -74.876
+\t (00:15:35) last pick:  329.000 -75.000
+\i (00:15:36) zoom out 1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) zoom out -0.396 11.327
+\i (00:15:36) trapsize 7982
+\i (00:15:37) zoom in 1 
+\i (00:15:37) setwindow pcb
+\i (00:15:37) zoom in -1.993 -92.436
+\i (00:15:37) trapsize 3991
+\i (00:15:38) zoom in 1 
+\i (00:15:38) setwindow pcb
+\i (00:15:38) zoom in -5.983 -80.463
+\i (00:15:38) trapsize 1995
+\i (00:15:40) zoom out 1 
+\i (00:15:40) setwindow pcb
+\i (00:15:40) zoom out -5.983 -80.463
+\i (00:15:40) trapsize 3991
+\i (00:15:51) add pin 
+\t (00:15:51) Using 'M_4_2.pad'.
+\i (00:15:54) prepopup 503.257 140.635
+\i (00:15:55) oops 
+\t (00:15:55) Using 'M_4_2.pad'.
+\i (00:15:57) prepopup 922.303 143.029
+\i (00:15:58) done 
+\t (00:15:58) Exiting from Add Pin.
+\i (00:16:03) zoom in 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom in -13.965 -69.287
+\i (00:16:03) trapsize 1995
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 16.765 -27.383
+\i (00:16:03) trapsize 3991
+\i (00:16:19) open 
+\e (00:16:19) Do you want to save the changes you made to M-4-2.dra?
+\i (00:16:20) fillin yes 
+\t (00:16:20) Symbol 'm-4-2.bsm' created.
+\i (00:16:26) fillin "m_4_7.dra"
+\t (00:16:26) Opening existing design...
+\i (00:16:26) trapsize 6030
+\i (00:16:26) trapsize 6216
+\i (00:16:26) trapsize 6216
+\d (00:16:26) Design opened: D:/1.28/c-CcandenceLib/m_4_7.dra
+\i (00:16:27) zoom in 1 
+\i (00:16:27) setwindow pcb
+\i (00:16:27) zoom in -144.469 -81.064
+\i (00:16:27) trapsize 3108
+\i (00:16:31) zoom out 1 
+\i (00:16:31) setwindow pcb
+\i (00:16:31) zoom out -442.841 -45.011
+\i (00:16:31) trapsize 6216
+\i (00:16:35) save_as 
+\i (00:16:55) fillin "m_4_2b.dra"
+\t (00:16:55) Symbol 'm_4_2b.psm' created.
+\i (00:17:00) delete 
+\i (00:17:01) pick grid -8.957 106.662
+\t (00:17:01) last pick:  0.000 100.000
+\t (00:17:01) Pin "M_4_7, 1"
+\i (00:17:01) pick grid 541.790 -56.200
+\t (00:17:01) last pick:  550.000 -50.000
+\i (00:17:05) add pin 
+\i (00:17:10) setwindow form.mini
+\i (00:17:10) FORM mini pad_browse  
+\i (00:17:16) fillin "M_4_2"
+\t (00:17:16) Using 'M_4_2.pad'.
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom out 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom out -104.685 -297.385
+\i (00:17:20) trapsize 6216
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -125.820 -303.601
+\i (00:17:20) trapsize 3108
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -379.437 -303.601
+\i (00:17:20) trapsize 1554
+\i (00:17:21) zoom out 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom out -343.695 -306.398
+\i (00:17:21) trapsize 3108
+\i (00:17:21) zoom out 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom out -321.006 -308.262
+\i (00:17:21) trapsize 6216
+\i (00:17:22) zoom in 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom in -64.902 -36.308
+\i (00:17:22) trapsize 3108
+\i (00:17:22) zoom in 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom in -348.978 -36.308
+\i (00:17:22) trapsize 1554
+\i (00:17:22) zoom out 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom out -344.937 -44.389
+\i (00:17:22) trapsize 3108
+\i (00:17:24) prepopup 1.300 -5.228
+\i (00:17:27) pop dyn_option_select 'Snap pick to@:@Shape Center' 
+\t (00:17:27) last pick:  0.000 0.000
+\t (00:17:27) Using 'M_4_2.pad'.
+\i (00:17:28) prepopup 235.025 -137.631
+\i (00:17:29) done 
+\t (00:17:29) Exiting from Add Pin.
+\i (00:17:34) delete 
+\i (00:17:40) pick grid -14.241 156.391
+\t (00:17:40) last pick:  -25.000 150.000
+\t (00:17:40) Shape "Package Geometry/Place_Bound_Top"
+\i (00:17:40) pick grid dbl -14.241 156.391
+\t (00:17:40) last pick:  -25.000 150.000
+\i (00:17:42) pick grid -27.916 166.958
+\t (00:17:42) last pick:  -25.000 175.000
+\t (00:17:42) Line "Package Geometry/Assembly_Top"
+\i (00:17:42) pick grid dbl -27.916 166.958
+\t (00:17:42) last pick:  -25.000 175.000
+\t (00:17:42) Line "Package Geometry/Silkscreen_Top"
+\i (00:17:43) pick grid -36.619 166.337
+\t (00:17:43) last pick:  -25.000 175.000
+\i (00:17:49) add circle 
+\t (00:17:49) Pick center point of the circle.
+\t (00:17:49) Pick center point of the circle.
+\i (00:17:58) setwindow form.mini
+\i (00:17:58) FORM mini class PACKAGE GEOMETRY 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) prepopup 1.921 -0.255
+\i (00:18:13) pop dyn_option_select 'Snap pick to@:@Shape Center' 
+\i (00:18:14) prepopup -22.943 -15.795
+\i (00:18:24) pop dyn_option_select 'Snap pick to@:@Arc/Circle Center' 
+\i (00:18:25) prepopup -8.024 0.988
+\i (00:18:37) pop dyn_option_select 'Snap pick to@:@Snap Offset (0.000 0.000)...' 
+\i (00:18:40) setwindow form.snap_offset
+\i (00:18:40) FORM snap_offset ok  
+\i (00:18:41) setwindow pcb
+\i (00:18:41) prepopup -6.160 -0.255
+\i (00:18:44) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:18:46) prepopup 3.164 -2.741
+\i (00:18:47) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\i (00:18:48) prepopup 0.678 9.691
+\i (00:18:51) pop dyn_option_select 'Snap pick to@:@Arc/Circle Center' 
+\i (00:18:53) prepopup -16.727 -1.498
+\i (00:18:59) pop dyn_option_select 'Snap pick to@:@Pin' 
+\t (00:18:59) last pick:  0.000 0.000
+\t (00:18:59) Pick a perimeter point on the circle.
+\i (00:19:01) zoom in 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom in -58.997 94.852
+\i (00:19:01) trapsize 1554
+\i (00:19:01) zoom in 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom in -58.997 94.852
+\i (00:19:01) trapsize 777
+\i (00:19:02) zoom out 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom out -55.889 108.994
+\i (00:19:02) trapsize 1554
+\i (00:19:09) replay 'C:`\Users`\86158`\AppData`\Roaming`\SPB_Data`\pcbenv`\scr`\set_grid_1m' 
+\i (00:19:09) version 17.2 
+\t (00:19:09) Script version: 17.2
+\i (00:19:09) setwindow pcb 
+\i (00:19:09) trapsize 5497 
+\i (00:19:09) shapeedit 
+\i (00:19:09) define grid 
+\t (00:19:09) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:19:09) shapeedit 
+\i (00:19:09) setwindow form.grid 
+\i (00:19:09) FORM grid non_etch non_etch_x_grids 5 
+\i (00:19:09) FORM grid non_etch non_etch_y_grids 5 
+\i (00:19:09) FORM grid all_etch all_etch_x_grids '1 1 1 1 1' 
+\i (00:19:09) FORM grid all_etch all_etch_y_grids '1 1 1 1 1' 
+\i (00:19:09) FORM grid done 
+\i (00:19:09) setwindow pcb 
+\i (00:19:09) prepopup 1191.513 383.417 
+\i (00:19:09) prepopup 1191.513 383.417
+\i (00:19:09) pick grid 1223.394 452.676 
+\t (00:19:09) last pick:  1223.394 452.676
+\w (00:19:09) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:19:09) trapsize 1554
+\i (00:19:15) add circle 
+\t (00:19:15) Pick center point of the circle.
+\t (00:19:15) Pick center point of the circle.
+\i (00:19:16) prepopup -0.876 -4.139
+\i (00:19:20) pop dyn_option_select 'Snap pick to@:@Pin' 
+\t (00:19:20) last pick:  0.000 0.000
+\t (00:19:20) Pick a perimeter point on the circle.
+\i (00:19:26) setwindow form.mini
+\i (00:19:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:19:30) setwindow pcb
+\i (00:19:30) zoom in 1 
+\i (00:19:30) setwindow pcb
+\i (00:19:30) zoom in -2.741 120.805
+\i (00:19:30) trapsize 777
+\i (00:19:30) zoom out 1 
+\i (00:19:30) setwindow pcb
+\i (00:19:30) zoom out -2.741 120.805
+\i (00:19:30) trapsize 1554
+\i (00:19:32) pick grid -8.025 123.914
+\t (00:19:32) last pick:  -10.000 125.000
+\t (00:19:32) Pick center point of the circle.
+\i (00:19:35) setwindow form.mini
+\i (00:19:35) FORM mini subclass SILKSCREEN_TOP 
+\i (00:19:36) setwindow pcb
+\i (00:19:36) prepopup -1.187 0.835
+\i (00:19:38) pop dyn_option_select 'Snap pick to@:@Pin' 
+\t (00:19:38) last pick:  0.000 0.000
+\t (00:19:38) Pick a perimeter point on the circle.
+\i (00:19:40) pick grid -4.295 127.022
+\t (00:19:40) last pick:  -5.000 125.000
+\t (00:19:40) Pick center point of the circle.
+\i (00:19:45) setwindow form.mini
+\i (00:19:45) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:19:47) setwindow pcb
+\i (00:19:47) shape add rect 
+\i (00:19:49) shape add circle 
+\i (00:19:50) prepopup 1.299 2.079
+\i (00:19:52) pop dyn_option_select 'Snap pick to@:@Pin' 
+\t (00:19:52) last pick:  0.000 0.000
+\i (00:19:54) pick grid -17.970 125.779
+\t (00:19:54) last pick:  -20.000 125.000
+\i (00:19:54) prepopup 76.204 105.888
+\i (00:19:55) done 
+\i (00:19:55) zoom out 1 
+\i (00:19:55) setwindow pcb
+\i (00:19:55) zoom out -11.444 132.928
+\i (00:19:55) trapsize 3108
+\i (00:19:55) zoom out 1 
+\i (00:19:55) setwindow pcb
+\i (00:19:55) zoom out 25.231 130.441
+\i (00:19:55) trapsize 6216
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in -123.334 -66.146
+\i (00:19:58) trapsize 3108
+\i (00:20:00) save 
+\i (00:20:02) fillin yes 
+\t (00:20:02) Symbol 'm_4_2b.psm' created.
+\i (00:20:04) open 
+\i (00:20:16) fillin "menu_cancel"
+\i (02:06:40) exit 
+\t (02:06:45)     Journal end - Sun Mar 24 21:46:17 2024

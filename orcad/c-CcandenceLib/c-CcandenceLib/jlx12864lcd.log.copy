@@ -1,0 +1,28 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : JLX12864LCD.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Mar 02 13:41:12 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/×ÀÃæ/1.28/c-CcandenceLib
+    Name      = jlx12864lcd.psm
+    User      = 86158
+    Machine   = LAPTOP-5LJ40LCF
+
+
+Create symbol started.
+ 
+ <b><i><font color="darkred">ERROR(SPMHCS-1)</i></b></font>: Symbol is missing a refdes. 
+ <b><i><font color="darkred">ERROR(SPMHCS-1)</i></b></font>: Symbol is missing a refdes. 
+
+<b><i><font color="darkred">ERROR(SPMHA1-291)</i></b></font>: Create symbol has been aborted.
+
+</PRE>
+</BODY></HTML>

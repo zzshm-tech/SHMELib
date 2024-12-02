@@ -1,0 +1,15 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Apr 21 15:03:00 2024
+\t (00:00:01)         Host=LAPTOP-5LJ40LCF User=86158 Pid=2584 CPUs=8
+\t (00:00:01) CmdLine= d:\program\tools\bin\allegro.exe D:\1.28\c-CcandenceLib\1206d.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/1.28/c-CcandenceLib/1206d.dra
+\i (00:00:01) trapsize 5500
+\i (00:00:01) trapsize 5669
+\i (00:00:01) trapsize 5669
+\i (00:00:03) open 
+\i (00:01:13) fillin "menu_cancel"
+\i (00:01:14) exit 
+\t (00:01:15)     Journal end - Sun Apr 21 15:04:15 2024

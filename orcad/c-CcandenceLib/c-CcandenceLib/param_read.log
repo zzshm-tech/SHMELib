@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : JLX12864LCD3.dra                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Feb 12 14:33:13 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : pcb_pack_param.prm
+	Layout Name   : D:/1.28/c-CcandenceLib/JLX12864LCD3.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...text_size_table:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

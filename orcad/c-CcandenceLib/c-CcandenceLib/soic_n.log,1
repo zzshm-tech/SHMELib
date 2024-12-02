@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC_N.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 01 10:07:47 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/86158/Desktop/1.28/CcandenceLib
+    Name      = soic_n.psm
+    User      = 86158
+    Machine   = LAPTOP-5LJ40LCF
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

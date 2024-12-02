@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 13 12:22:32 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/1.28/testCacdence/test.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PTH_C591SLOT394X394S40 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  hdr-th_8p-p2_54-v-r2-c4-s2_54 being dumped.
+
+ERROR: ERROR(SPMHCS-1): Symbol is missing a refdes.
+
+
+*********************** Summary *********************
+ERRORs reported:                           1
+
+Number of padstacks dumped:                1
+Number of package symbols dumped:          1
+
+Total number of symbols dumped:            1
+*****************************************************
+

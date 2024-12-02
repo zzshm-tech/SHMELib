@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMT_gdn_c1p.dra                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Aug 14 15:55:05 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1.28/c-CcandenceLib
+    Name      = smt_gdn_c1p.psm
+    User      = 86158
+    Machine   = LAPTOP-5LJ40LCF
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

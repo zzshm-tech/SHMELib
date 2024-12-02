@@ -1,0 +1,15 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+Layer conversion file: D:/1.28/e-AutoCad/usb_l.cnv
+DXF file: D:/1.28/e-AutoCad/usb.dxf
+BRD file: D:/1.28/c-CcandenceLib/#Taaaacq14584.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.
